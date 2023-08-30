@@ -1,0 +1,56 @@
+body {
+    background-color: #B8D9FF;
+    text-align: center;
+
+    
+}
+.bloconotas {
+    background-color: #68AAF8;
+    padding: 10% 20%;
+    border-radius: 10px;
+    
+}
+.lista {
+    text-align: left;
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: -20%;
+    font-size: 30px;
+}
+.lista button {
+    background-color: white;
+    border-color: white;
+}
+.addtarefa {
+    margin-top: 10%;
+}
+.addtarefa input {
+    padding: 5%;
+}
+.addtarefa button {
+    margin-top: 5%;
+    padding: 4% 8%;
+    background-color: #0066FF;
+    border-radius: 10px;
+    border-color: #0066FF;
+}
+.diario h1 {
+    margin-top: 10%;
+    font-size: medium;
+    background-color: white;
+    border-radius: 10px;
+}
+.diario input {
+    padding: 10%;
+}
+
+.itemAtivo {
+    text-decoration: line-through;
+    list-style-type: none;
+    color: darkgray;
+}
+.itemInativo{
+    list-style-type: none;
+
+}
